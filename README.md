@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilovepi31415
 - 👀 I’m interested in all things Math and Computer Science
-- 🌱 I’m currently learning some programming. I know some basic Python and C++, and am currently learning some Web Dev
+- 🌱 I’m always hoping to learn more. I'm most comfortable with Python and Web Dev, and also have some knowledge about C++ and Go.
 - ⚡ Fun fact: I can't play the banjo
 
 <!---
